@@ -7,7 +7,6 @@ Full stack web developer | Skilled in Next.js, React.js, Tailwind CSS & MongoDB 
 - 💡I’m passionate about AI + Web Integration and creating impactful products for real-world problems
 - 👯 I’m looking to collaborate on Full Stack Web Apps, AI + IoT projects, and Open Source initiatives
 - 🤝 Looking for help with developing scalable SaaS platforms
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about: Web Dev, React.js, Next.js,
 - 📫 Reach me at: pawanthakre252002@gmail.com
 
