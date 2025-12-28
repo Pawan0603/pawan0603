@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi 👋, I'm Pawan Thakre
 
-<!--
-**Pawan0603/pawan0603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack web developer | Skilled in Next.js, React.js, Tailwind CSS & MongoDB | Building Scalable Web Solutions
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently Pursuing Master's in Computer Science
+- 🌱 Currently learning Next.js, TypeScript, and IoT-based System Integration
+- 💡I’m passionate about AI + Web Integration and creating impactful products for real-world problems
+- 👯 I’m looking to collaborate on Full Stack Web Apps, AI + IoT projects, and Open Source initiatives
+- 🤝 Looking for help with developing scalable SaaS platforms
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about: Web Dev, React.js, Next.js,
+- 📫 Reach me at: pawanthakre252002@gmail.com
+
+
+
+
